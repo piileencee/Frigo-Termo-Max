@@ -1,0 +1,115 @@
+- id: blogs
+  translation: "Блог"
+
+- id: home
+  translation: "Почетна"
+
+- id: templateBy
+  translation: "Template by"
+
+- id: portedBy
+  translation: "Ported to Hugo by"
+
+- id: contactGoTo
+  translation: "Контакт страна"
+
+- id: contactAddrTitle
+  translation: "Адреса"
+
+- id: contactTitle
+  translation: "Контакт"
+
+- id: contactForm
+  translation: "Контакт форма"
+
+- id: contactName
+  translation: "Ваше име"
+
+- id: contactMail
+  translation: "Ваша email адреса"
+
+- id: contactMessage
+  translation: "Ваша порука"
+
+- id: contactSend
+  translation: "Пошаљи поруку"
+
+- id: navHome
+  translation: "Почетна страна"
+
+- id: categoriesTitle
+  translation: "Категорија"
+
+- id: searchTitle
+  translation: "Претражи"
+
+- id: tagsTitle
+  translation: "Тагови"
+
+- id: continueReading
+  translation: "Настави са читањем"
+
+- id: readMore
+  translation: "Прочитај више"
+
+- id: authorBy
+  translation: "Аутор"
+
+- id: recentPosts
+  translation: "скорашњи постови"
+
+- id: aboutUs
+  translation: "О нама"
+
+- id: newer
+  translation: "Новије"
+
+- id: older
+  translation: "Старије"
+
+- id: publishedOn
+  translation: "Објављено"
+
+- id: 404Error
+  translation: "Error 404: Страница није пронађена"
+
+- id: 404Message
+  translation: "Жао нам је – ова страница није овде више"
+- id: 404NavHome
+  translation: "Иди на почетну страну"
+
+- id: January
+  translation: Јануар
+
+- id: Februa
+  translation: Фебруар
+
+- id: March
+  translation: Март
+
+- id: April
+  translation: Април
+
+- id: May
+  translation: Мај
+
+- id: June
+  translation: Јун
+
+- id: July
+  translation: Јул
+
+- id: August
+  translation: Август
+
+- id: September
+  translation: Септембар
+
+- id: October
+  translation: Октобар
+
+- id: November
+  translation: Новембар
+
+- id: December
+  translation: Децембар

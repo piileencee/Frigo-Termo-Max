@@ -1,0 +1,10 @@
+weight: 2
+title: "Честа питања"
+description: 
+  <ul class="list-style-none">
+     <li>питање 1</li>
+     <li>питање 2</li>
+     <li>питање 3</li>
+   </ul>
+image: "img/carousel/3d.png"
+href: "faq"
