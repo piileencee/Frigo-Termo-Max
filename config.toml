@@ -4,10 +4,10 @@ defaultContentLanguage = "sr"
 title = 'Хуго сајт'
 theme = 'hugo-universal-theme'
 [params]
-     enableGoogleMaps = false
+    enableGoogleMaps = false
     disabled_logo = false
-    logo_text = "Universal"
-    logo = "img/logo.png"
+    logo = "img/logo.svg"
+    logo_small = "img/logo.svg"
     formspree_action = "https://formspree.io/f/myyakjdy"
     contact_form_ajax = false
     style = "default"
@@ -29,44 +29,18 @@ theme = 'hugo-universal-theme'
         cols = 3
  [params.testimonials]
         enable = true
-        title = "Позови нас"
+        title = "Pozovi nas"
        # subtitle = "Радили смо са много клијената и увек волимо да чујемо да из сарадње изађу срећни и задовољни. Погледајте шта су наши клијенти рекли о нама."
 [[params.menu]]
     parent     = "menu.allpages"
     post       = 1
 
 [[menu.main]]
-    name       = "Услуге"
+    name       = "Usluge"
     identifier = "menu.usluge"
-    url        = "/usluge/"
+    url        = "/index.html/#usluga"
     weight     = 2
 
-[[menu.main]]
-    name       = "Услуга 1"
-    url        = "/usluge/usluga1"
-    weight     = 1
-    parent     = "menu.usluge"
-
-[[menu.main]]
-    name       = "Услуга 2"
-    url        = "/usluge/usluga2"
-    weight     = 2
-    parent     = "menu.usluge"
-[[menu.main]]
-    name = "Услуга 3"
-    url = "/usluge/usluga3"
-    weight = 3
-    parent = "menu.usluge"
- [[menu.main]]
-    name = "Услуга 4"
-    url = "/usluge/usluga4"
-    weight = 4
-    parent = "menu.usluge"
-[[menu.main]]
-    name = "Услуга 5"
-    url = "/usluge/usluga5"
-    weight = 5
-    parent = "menu.usluge"
 [[menu.main]]
     name       = "ЧПП"
     identifier = "menu.faq"

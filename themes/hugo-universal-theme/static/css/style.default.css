@@ -1185,6 +1185,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel .owl-theme .owl-controls .owl-page.active span {
   background: #fff;
+  
 }
 .home-carousel .owl-theme .owl-controls .owl-page:hover span {
   background: #fff;
@@ -1260,6 +1261,7 @@ fieldset[disabled] .btn-template-primary.active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
+  height: 70px;
 }
 .customers .item img:hover {
   max-width: auto;

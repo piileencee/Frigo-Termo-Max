@@ -11,9 +11,14 @@
 
         {{ if gt (mod (len $features) $elements) 0 }}
           {{ $total_rows = add $total_rows 1 }}
-        {{ end }}
-
-        {{ range $i, $sequence := seq $total_rows }}
+        {{ end }} 
+        <div id="usluga">
+            <h1 style="text-align:center; text-transform:uppercase; letter-spacing:6px;">Servis pruža sledeće usluge:</h1>  
+            <h3 style="text-align:center;" >Kvalitetan i pouzdan servis rashladne opreme iz oblasti komercijalnog i industrijskog hlađenja.</h3>
+        </div>
+               
+        <br>
+                {{ range $i, $sequence := seq $total_rows }}
           <div class="row row-{{ $i }} row-{{ if eq (mod $i 2) 0 }}odd{{ else }}even{{ end }}">
             {{ range $j, $sequence2 := (seq $elements) }}
 
