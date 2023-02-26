@@ -1,15 +1,12 @@
 +++
-title = "Услуга 4"
-date = ""
-categories = ["програмирање","lorem","ipsum"]
-banner = "img/banners/banner.jpg"
-authors = ["Рада"]
+title = "Servis/popravka rasladnih komora plusnih i minusnih"
+
+weight = 4 
+usluga = true
+name= "Servis/popravka rasladnih komora plusnih i minusnih"
+image= "img/features/Rashladna-komora.jpg"
+url=  "/usluge/usluga4"
+description= "Montažne minusne rashladne komore – hladnjače, predstavljaju idealno rešenje skladištenja velikih količina svežih namirnica za profesionalne kuhinje, hotelske kuhinje..  "
+
 +++
-
-## Услуга 4
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Montažne minusne rashladne komore – hladnjače, predstavljaju idealno rešenje skladištenja velikih količina svežih namirnica za profesionalne kuhinje, hotelske kuhinje, fast food restorane i ketering. Omogućavaju blagovremeno planiranje nabavke robe i namirnica, za veće potrebe pripreme hrane.

@@ -1,15 +1,12 @@
 +++
-title = "Услуга 5"
+title = "Servis/popravka svih vrsta industrijskih, freonski i amonijačkih instalacija"
 date = ""
-categories = ["програмирање","lorem","ipsum"]
-banner = "img/banners/banner.jpg"
-authors = ["Рада"]
+usluga = true
+weight = 5
+name= "Servis/popravka svih vrsta industrijskih, freonski i amonijačkih instalacija"
+image= "img/features/ventilacija1.jpg"
+url= "/usluge/usluga5"
+description= "Osnovna delatnost je projektovanje, ugradnja i održavanje električnih instalacija u zgradama i stanovima. Stručna i kvalifikovana ekipa elektroinženjera i tehničara uvek Vam stoji na usluzi."
 +++
 
-## Услуга 5
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Osnovna delatnost je projektovanje, ugradnja i održavanje električnih instalacija u zgradama i stanovima. Stručna i kvalifikovana ekipa elektroinženjera i tehničara uvek Vam stoji na usluzi.

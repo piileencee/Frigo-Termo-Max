@@ -44,6 +44,9 @@
                         <div id="post-content">
                           {{ .Content }}
                         </div>
+                        <div class="slika">
+                           <img src="{{.Params.img}}" alt="">
+                        </div>
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
                         <div id="comments">
@@ -79,7 +82,7 @@
             <!-- /.container -->
         </div>
         <!-- /#content -->
-
+        {{ partial "testimonials.html" .}}
         {{ partial "footer.html" . }}
 
     </div>

@@ -1,14 +1,19 @@
 +++
-title = "Where does it come from?"
+title = "Servis/popravka čilera"
 date = ""
-categories = ["где","lorem","ipsum"]
-banner = "img/banners/banner2.jpg"
-authors = ["Аца"]
+weight= 3
+usluga = true
+name= "Servis/popravka čilera"
+image= "img/features/ciler.jpg"
+url= "/usluge/usluga3"
+description= "Održavamo i veoma uspešno servisiramo sve rashlađivače tečnosti, Daikin i ostale brendove, kao i minusne sisteme i šok komore."
+img = "/img/ciler.png"
 +++
 
-## Услуга 3
+## Servis/popravka čilera
+Chilleri su srce mnogih velikih objekata širom sveta, obezbeđujući pravi komfor, temperaturu, i ventilaciju prostora. Izuzetno su efikasni energetski i ekonomski, poštujući sve ekološke standarde zaštite životne sredine.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+Servis i održavanje čilera, rezervni delovi za sve tipove čilera.
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
 
