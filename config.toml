@@ -12,15 +12,15 @@ theme = 'hugo-universal-theme'
     contact_form_ajax = false
     style = "default"
   #контакт
-    address = """<p class="text-uppercase"><strong>АД ПЕКАРА</strong>
-        <br>Светосавска 59, 
+    address = """<p class="text-uppercase"><strong>Majstor Marko</strong>
+        <br>SVetosavska 59, 
         <br>
-        <strong>23300 Кикинда, Србија</strong>
+        <strong>23300 Kikinda, Srbijaја</strong>
       </p>
       """ 
 [params.topbar]
     enable = true
-    text = "<p>Контактирајте нас на 0230/425-758 или email@gmail.com.</p>"
+    text = "<p>Kontaktirajte nas na 0230/425-758 или email@gmail.com.</p>"
 
 [params.clients]
     enable = true
@@ -33,7 +33,7 @@ theme = 'hugo-universal-theme'
  [params.testimonials]
         enable = true
         title = "Pozovi nas"
-       # subtitle = "Радили смо са много клијената и увек волимо да чујемо да из сарадње изађу срећни и задовољни. Погледајте шта су наши клијенти рекли о нама."
+       
 [[params.menu]]
     parent     = "menu.allpages"
     post       = 1
@@ -41,7 +41,7 @@ theme = 'hugo-universal-theme'
 [[menu.main]]
     name       = "Usluge"
     identifier = "menu.usluge"
-    url        = "/index.html/#usluga"
+    url        = "https://piileencee.github.io/Frigo-Termo-Max/index.html/#usluga"
     weight     = 2
 
 [[menu.main]]
@@ -58,7 +58,7 @@ theme = 'hugo-universal-theme'
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "http://pionir.org"
+    url = "https://www.facebook.com/"
     pre = "<i class='fas fa-2x fa-facebook'></i>"
 [params.widgets]
 
