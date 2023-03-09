@@ -23,6 +23,7 @@
 	display: none;
 	position: relative;
 	-webkit-transform: translate3d(0px, 0px, 0px);
+	width: 100%;
 }
 .owl-carousel .owl-wrapper-outer{
 	overflow: hidden;
@@ -36,7 +37,9 @@
 	-o-transition: height 500ms ease-in-out;
 	transition: height 500ms ease-in-out;
 }
-
+#KlijnetSlika{
+	width: 300px;
+}
 .owl-carousel .owl-item{
 	float: left;
 }

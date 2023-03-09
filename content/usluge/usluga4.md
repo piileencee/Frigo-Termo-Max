@@ -5,7 +5,6 @@ weight = 4
 usluga = true
 name= "Servis/popravka rasladnih komora plusnih i minusnih"
 image= "img/features/Rashladna-komora.jpg"
-url=  "/usluge/usluga4"
 description= "Montažne minusne rashladne komore – hladnjače, predstavljaju idealno rešenje skladištenja velikih količina svežih namirnica za profesionalne kuhinje, hotelske kuhinje..  "
 
 +++

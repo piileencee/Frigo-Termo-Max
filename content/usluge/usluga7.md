@@ -4,7 +4,6 @@ usluga = true
 weight=7
 name= "Servis/popravka multi sistema (VRF, VRV i SPLIT sistema)"
 image="img/features/multisistem.jpg"
-url= "/usluge/usluga7"
 description= "Da biste ugradili Multi-split sistem i klimatizovali Vaš objekat na ovaj način najpoželjnije je prvo da nas pozovete da Vam pomognemo pri odabiru brenda i veličine i izradimo ponudu a poželjno je da sastavimo projekat za veći objekat."
 +++
 Evo nekih razloga zbog kojih biste se opredelili za ugradnju multi-split sistema:

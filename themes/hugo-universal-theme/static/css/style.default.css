@@ -383,7 +383,6 @@ ul.list-style-none {
 
 .navbar ul.nav>li>a {
   text-transform: uppercase;
-  text-decoration: underline;
   font-weight: bold;
   letter-spacing: 0.08em;
   border-top: solid 5px transparent;
@@ -441,6 +440,7 @@ ul.list-style-none {
   text-transform: uppercase;
   letter-spacing: 0.08em;
   padding: 4px 0;
+  
 }
 
 .navbar ul.dropdown-menu li a {
@@ -1547,13 +1547,12 @@ fieldset[disabled] .btn-template-primary.active {
 .testimonials .item .testimonial .text {
   color: white;
   font-size: 25px;
-  /* display: flex;
-  justify-content: space-between;*/
-  display: inline-flex;
-  /*gap:2em;*/
-  justify-content: space-between;
+  gap: 5em;
+  display: flex;
 }
-
+.testimonials .item .testimonial .text p {
+  margin: 0;
+}
 .testimonials .item .testimonial .text a {
   color: white;
 }
@@ -2444,8 +2443,25 @@ fieldset[disabled] .btn-template-primary.active {
   #blog-homepage .post .image img.img-responsive {
     min-width: 100%;
   }
+  .items {
+    display: grid;
+    grid-template-areas: "item-1"
+      " item-2 "
+      "item-3"
+      "item-4 "
+      "item-5 "
+      "item-6"
+      "item-7"
+      " item-8 "
+      "item-9"
+      "item-10 "
+      "item-11 "
+      "item-12";
+    gap: 1em;
+  }
+  
 }
-
+.testimonial
 #blog-listing-big .post .video,
 #blog-homepage .post .video {
   margin-bottom: 10px;
@@ -4091,13 +4107,14 @@ p {
       "item-5 "
       "item-6"
       "item-7"
-      " item-8 "
+      "item-8 "
       "item-9"
       "item-10 "
       "item-11 "
       "item-12";
     gap: 1em;
   }
+  
 }
 .text-small {
   font-size: 12px;
@@ -4303,14 +4320,16 @@ a.list-group-item.active>.badge,
   left: 15px;
   right: 15px;
 }
-
+@media  (min-width:48em ){
 .items {
   display: grid;
   grid-template-areas: "item-1 item-2 item-3"
-    "item-4 item-5 item-6"
+      "item-4 item-5 item-6"
     "item-7 item-8 item-9"
     "item-10 item-11 item-12";
   gap: 1em;
+}
+
 }
 
 .items img:hover {
@@ -4334,4 +4353,19 @@ a.list-group-item.active>.badge,
 
 .slika {
   padding-bottom: 25px;
+}
+#KlijnetSlika {
+  width: 100%;
+}
+@media (max-width:768px) {
+  .testimonials .item .testimonial .text {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .testimonial .item .testimonial{
+    height:200px;
+  }
 }

@@ -5,7 +5,6 @@ weight= 3
 usluga = true
 name= "Servis/popravka čilera"
 image= "img/features/ciler.jpg"
-url= "/usluge/usluga3"
 description= "Održavamo i veoma uspešno servisiramo sve rashlađivače tečnosti, Daikin i ostale brendove, kao i minusne sisteme i šok komore."
 img = "/img/ciler.png"
 +++

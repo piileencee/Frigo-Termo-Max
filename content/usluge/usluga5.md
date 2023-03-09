@@ -5,7 +5,6 @@ usluga = true
 weight = 5
 name= "Servis/popravka svih vrsta industrijskih, freonski i amonijačkih instalacija"
 image= "img/features/ventilacija1.jpg"
-url= "/usluge/usluga5"
 description= "Osnovna delatnost je projektovanje, ugradnja i održavanje električnih instalacija u zgradama i stanovima. Stručna i kvalifikovana ekipa elektroinženjera i tehničara uvek Vam stoji na usluzi."
 +++
 

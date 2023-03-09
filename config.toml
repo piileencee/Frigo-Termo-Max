@@ -45,12 +45,6 @@ theme = 'hugo-universal-theme'
     weight     = 2
 
 [[menu.main]]
-    name       = "ЧПП"
-    identifier = "menu.faq"
-    url        = "/faq/"
-    weight     = 3
-
-[[menu.main]]
     identifier = "contact"
     name       = "Контакт"
     url        = "/contact/"
@@ -65,7 +59,7 @@ theme = 'hugo-universal-theme'
     weight = 2
     name = "Facebook"
     url = "http://pionir.org"
-    pre = "<i class='fas fa-snowflake'></i>"
+    pre = "<i class='fas fa-2x fa-facebook'></i>"
 [params.widgets]
 
     tags = true

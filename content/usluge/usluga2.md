@@ -5,7 +5,6 @@ weight= 2
 usluga = true
 name= "Servis/popravka frižidera i zamrzivača"
 image= "img/features/frizider.jpg"
-url="/usluge/usluga2"
 description= "Majstor za frižider vam je dostupan u Kikindi. Povoljna cena, brza, kvalietna i profesionalna usluga. Kada vam treba popravka frižidera marke Gorenje, LG, Beko, Elin, Bira, Ariston ili drugog proizvodjača pozovite nas."
 
 +++
