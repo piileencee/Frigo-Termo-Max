@@ -7,7 +7,6 @@ weight = 6
 name= "Servis/popravka toplotnih pumpi"
 image="img/features/toplotnaPumpa1.jpg"
 description= "Servisiramo i održavamo toplotne pumpe iz svih oblasti vazduh-voda i voda-voda"
-
 +++
 
 ## Услуга 6
