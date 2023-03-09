@@ -41,7 +41,7 @@ theme = 'hugo-universal-theme'
 [[menu.main]]
     name       = "Usluge"
     identifier = "menu.usluge"
-    url        = "https://piileencee.github.io/Frigo-Termo-Max/index.html/#usluga"
+    url        = "https://piileencee.github.io/Frigo-Termo-Max/#usluga"
     weight     = 2
 
 [[menu.main]]
