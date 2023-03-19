@@ -1,5 +1,5 @@
 +++
-title = "Servis/popravka svih vrsta industrijskih, freonski i amonijačkih instalacija"
+title = "Servis/popravka svih vrsta industrijskih i freonski instalacija"
 date = ""
 usluga = true
 weight = 5
