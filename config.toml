@@ -12,7 +12,7 @@ theme = 'hugo-universal-theme'
     contact_form_ajax = false
     style = "default"
   #контакт
-    address = """<p class="text-uppercase"><strong>Majstor Marko</strong>
+    address = """<p class="text-uppercase"><strong>MARKO KRSTIČEVIĆ</strong>
         <br>SVetosavska 59, 
         <br>
         <strong>23300 Kikinda, Srbijaја</strong>
