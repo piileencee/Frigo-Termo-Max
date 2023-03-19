@@ -59,8 +59,8 @@ theme = 'hugo-universal-theme'
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "https://www.facebook.com/"
-    pre = "img/f_logo.png"
+    url = "https://www.facebook.com/FrigoTermoKikinda"
+    img = "img/f_logo.png"
    
 [params.widgets]
 

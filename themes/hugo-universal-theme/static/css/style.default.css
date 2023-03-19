@@ -320,11 +320,9 @@ ul.list-style-none {
   text-align: center;
 }
 
-#top .social a:hover {
-  color: #fff;
-  background: var(--primary-accent);
-  -webkit-transform: scale(1.1);
-  transform: scale(1.1);
+#top .social img{
+  width: 24px;
+  height: 24px;
 }
 
 #top .social a:hover.facebook {
