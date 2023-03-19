@@ -60,7 +60,7 @@ theme = 'hugo-universal-theme'
     weight = 2
     name = "Facebook"
     url = "https://www.facebook.com/"
-    pre = "<i class='fas fa-2x fa-facebook'></i>"
+    pre = "img/f_logo.svg"
 [params.widgets]
 
     tags = true
