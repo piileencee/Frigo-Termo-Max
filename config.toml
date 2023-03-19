@@ -18,6 +18,7 @@ theme = 'hugo-universal-theme'
         <strong>23300 Kikinda, Srbijaја</strong>
       </p>
       """ 
+      contact_url ="https://piileencee.github.io/Frigo-Termo-Max/contact/"
 [params.topbar]
     enable = true
     text = "<p>Kontaktirajte nas na 0230/425-758 или email@gmail.com.</p>"
