@@ -1,8 +1,8 @@
 - id: blogs
-  translation: "Блог"
+  translation: "Blog"
 
 - id: home
-  translation: "Почетна"
+  translation: "Početna"
 
 - id: templateBy
   translation: "Template by"
@@ -11,105 +11,105 @@
   translation: "Ported to Hugo by"
 
 - id: contactGoTo
-  translation: "Контакт страна"
+  translation: "Kontakt strana"
 
 - id: contactAddrTitle
-  translation: "Адреса"
+  translation: "Adresa"
 
 - id: contactTitle
-  translation: "Контакт"
+  translation: "Kontakt"
 
 - id: contactForm
-  translation: "Контакт форма"
+  translation: "Kontakt forma"
 
 - id: contactName
-  translation: "Ваше име"
+  translation: "Vaše ime"
 
 - id: contactMail
-  translation: "Ваша email адреса"
+  translation: "Vaša email adresa"
 
 - id: contactMessage
-  translation: "Ваша порука"
+  translation: "Vaša poruka"
 
 - id: contactSend
-  translation: "Пошаљи поруку"
+  translation: "Pošalji poruku"
 
 - id: navHome
-  translation: "Почетна страна"
+  translation: "Početna strana"
 
 - id: categoriesTitle
-  translation: "Категорија"
+  translation: "Kategorija"
 
 - id: searchTitle
-  translation: "Претражи"
+  translation: "Pretraži"
 
 - id: tagsTitle
-  translation: "Тагови"
+  translation: "Tagovi"
 
 - id: continueReading
-  translation: "Настави са читањем"
+  translation: "Nastavi sa čitanjem"
 
 - id: readMore
-  translation: "Прочитај више"
+  translation: "Pročita više"
 
 - id: authorBy
-  translation: "Аутор"
+  translation: "Autor"
 
 - id: recentPosts
-  translation: "скорашњи постови"
+  translation: "Skorašnji postovi"
 
 - id: aboutUs
-  translation: "О нама"
+  translation: "O nama"
 
 - id: newer
-  translation: "Новије"
+  translation: "Novije"
 
 - id: older
-  translation: "Старије"
+  translation: "Starije"
 
 - id: publishedOn
-  translation: "Објављено"
+  translation: "Objavljeno"
 
 - id: 404Error
-  translation: "Error 404: Страница није пронађена"
+  translation: "Error 404: Stranica nije pronađena"
 
 - id: 404Message
-  translation: "Жао нам је – ова страница није овде више"
+  translation: "Žao nam je – ova stranica nije ovde više"
 - id: 404NavHome
-  translation: "Иди на почетну страну"
+  translation: "Idi na početnu stranu"
 
 - id: January
-  translation: Јануар
+  translation: Januar
 
 - id: Februa
-  translation: Фебруар
+  translation: Februar
 
 - id: March
-  translation: Март
+  translation: Mart
 
 - id: April
-  translation: Април
+  translation: April
 
 - id: May
-  translation: Мај
+  translation: Maj
 
 - id: June
-  translation: Јун
+  translation: Jun
 
 - id: July
-  translation: Јул
+  translation: Jul
 
 - id: August
-  translation: Август
+  translation: Avgust
 
 - id: September
-  translation: Септембар
+  translation: Septembar
 
 - id: October
-  translation: Октобар
+  translation: Oktobar
 
 - id: November
-  translation: Новембар
+  translation: Novembar
 
 - id: December
-  translation: Децембар
+  translation: Decembar

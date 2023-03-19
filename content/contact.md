@@ -1,4 +1,4 @@
 +++
-title = "Контакт"
+title = "Kontakt"
 id = "contact"
 +++
