@@ -15,7 +15,7 @@ theme = 'hugo-universal-theme'
     address = """<p class="text-uppercase"><strong>MARKO KRSTIČEVIĆ</strong>
         <br>SVetosavska 59, 
         <br>
-        <strong>23300 Kikinda, Srbijaја</strong>
+        <strong>23300 Kikinda, Srbija</strong>
       </p>
       """ 
       contact_url ="https://piileencee.github.io/Frigo-Termo-Max/contact/"
