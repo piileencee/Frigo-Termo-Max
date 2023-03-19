@@ -1,7 +1,7 @@
 baseURL = 'https://piileencee.github.io/Frigo-Termo-Max/'
 languageCode = 'sr-SP'
 defaultContentLanguage = "sr"
-title = 'Хуго сајт'
+
 theme = 'hugo-universal-theme'
 [params]
     enableGoogleMaps = false
@@ -46,7 +46,7 @@ theme = 'hugo-universal-theme'
 
 [[menu.main]]
     identifier = "contact"
-    name       = "Контакт"
+    name       = "Kontakt"
     url        = "/contact/"
     weight     = 4
 
